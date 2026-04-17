@@ -1,0 +1,17 @@
+{
+  "name": "Cron Master",
+  "slug": "cron-master",
+  "tagline": "Visual cron expression builder and parser. Convert complex cron schedules to human-readable explanations and see next execution times instantly.",
+  "description": "Visual cron expression builder and parser. Convert complex cron schedules to human-readable explanations and see next execution times instantly.",
+  "price": "9",
+  "features": [],
+  "tech_stack": "Vercel + Node.js",
+  "status": "building",
+  "vercel_url": null,
+  "github_url": null,
+  "lemonsqueezy_checkout_url": null,
+  "lemonsqueezy_product_id": null,
+  "webhook_url": null,
+  "created_cycle": null,
+  "deployed_cycle": null
+}
