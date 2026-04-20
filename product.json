@@ -8,10 +8,11 @@
   "tech_stack": "Vercel + Node.js",
   "status": "building",
   "vercel_url": null,
-  "github_url": null,
+  "github_url": "https://github.com/universe7creator/cron-master",
   "lemonsqueezy_checkout_url": null,
   "lemonsqueezy_product_id": null,
   "webhook_url": null,
   "created_cycle": null,
-  "deployed_cycle": null
+  "deployed_cycle": null,
+  "notes": "Previous deploy metadata was corrupt (\"}\"). Requires fresh deploy after Vercel auth refresh."
 }
