@@ -14,5 +14,7 @@
   "webhook_url": null,
   "created_cycle": null,
   "deployed_cycle": null,
-  "notes": "Previous deploy metadata was corrupt (\"}\"). Requires fresh deploy after Vercel auth refresh."
+  "notes": "Previous deploy metadata was corrupt (\"}\"). Requires fresh deploy after Vercel auth refresh.",
+  "seo_optimized": true,
+  "seo_optimized_at": "2026-04-21T17:47:00Z"
 }
