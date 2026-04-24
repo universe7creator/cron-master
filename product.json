@@ -9,12 +9,13 @@
   "status": "ready_to_deploy",
   "vercel_url": null,
   "github_url": "https://github.com/universe7creator/cron-master",
-  "lemonsqueezy_checkout_url": null,
   "lemonsqueezy_product_id": null,
   "webhook_url": null,
   "created_cycle": null,
   "deployed_cycle": null,
   "notes": "Previous deploy metadata was corrupt (\"}\"). Requires fresh deploy after Vercel auth refresh.",
   "seo_optimized": true,
-  "seo_optimized_at": "2026-04-21T17:47:00Z"
+  "seo_optimized_at": "2026-04-21T17:47:00Z",
+  "checkout_url": null,
+  "spec_version": "1.0"
 }
