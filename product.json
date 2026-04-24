@@ -6,16 +6,17 @@
   "price": "9",
   "features": [],
   "tech_stack": "Vercel + Node.js",
-  "status": "ready_to_deploy",
-  "vercel_url": null,
+  "status": "ready_for_payment",
+  "vercel_url": "https://cron-master.vercel.app",
   "github_url": "https://github.com/universe7creator/cron-master",
   "lemonsqueezy_product_id": null,
-  "webhook_url": null,
+  "webhook_url": "https://cron-master.vercel.app/api/webhook",
   "created_cycle": null,
   "deployed_cycle": null,
   "notes": "Previous deploy metadata was corrupt (\"}\"). Requires fresh deploy after Vercel auth refresh.",
   "seo_optimized": true,
   "seo_optimized_at": "2026-04-21T17:47:00Z",
   "checkout_url": null,
-  "spec_version": "1.0"
+  "spec_version": "1.0",
+  "deployment_url": "https://cron-master-52z8fqd9i-madnessqws-projects.vercel.app"
 }
